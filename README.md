@@ -2,9 +2,9 @@
 
 This repository contains code for evaluating the robustness of various open-vocabulary object detection models. Specifically, it addresses challenges in robustness when dealing with Out-Of-Distribution (OOD) shifts across different benchmarks, including COCO-O, COCO-C, and COCO-DC.
 
-(Arxiv)[https://arxiv.org/pdf/2405.14874]
+Arxiv - [https://arxiv.org/pdf/2405.14874]
 
-![Zeroshot OVOD evaluation]((https://github.com/prakashchhipa/OVOD_Robustness/blob/main/ovod_robustness1.jpg))
+![Model Architecture](ovod_robustness1.jpg)]
 
 ## Dependencies
 - Build Grounding DINO from [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
