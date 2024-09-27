@@ -2,6 +2,8 @@
 
 This repository contains code for evaluating the robustness of various open-vocabulary object detection models. Specifically, it addresses challenges in robustness when dealing with Out-Of-Distribution (OOD) shifts across different benchmarks, including COCO-O, COCO-C, and COCO-DC.
 
+Visit Project Website - [https://prakashchhipa.github.io/projects/ovod_robustness/]
+
 Arxiv - [https://arxiv.org/pdf/2405.14874]
 
 ![Model Architecture](ovod_robustness1.jpg)]
